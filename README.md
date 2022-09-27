@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedsohel22&label=Profile%20views&color=0e75b6&style=flat" alt="syedsohel22" /> </p>
 
-- 🌱 I’m currently learning **Python,React,javascript.**
+- 🌱 I’m currently learning **React,javascript.**
 
 - 📫 How to reach me **mr.sohelsyed@gmail.com**
 
