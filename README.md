@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: In JavaScript NaN is a type of Number😆  
   
-- my Portfolio : https://syedsohel22.github.io/
+- my Portfolio :<a href="https://syedsohel22.github.io/">Link</a>
 
 <br/>  
 
