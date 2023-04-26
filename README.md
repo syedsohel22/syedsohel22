@@ -82,7 +82,22 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=syedsohel22&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+<div>
 
+<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedsohel22&show_icons=true&locale=en&layout=compact" alt="syedsohel22" /></p>
+
+<br>
+
+<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=syedsohel22&show_icons=true&locale=en" alt="syedsohel22" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedsohel22&" alt="syedsohel22" /></p>
+
+## ⚡Activity Graph:
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=syedsohel22&theme=rogue)
+</div>
 
 ## Recent Blog Posts  
   
