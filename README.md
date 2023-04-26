@@ -99,7 +99,7 @@
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=syedsohel22&theme=rogue)
 </div>
 
-## Recent Blog Posts  
+ 
   
 
 <br/>  
@@ -118,5 +118,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
