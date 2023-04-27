@@ -82,22 +82,21 @@
 
 
 <br/>  
-<div>
-
-<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedsohel22&show_icons=true&locale=en&layout=compact" alt="syedsohel22" /></p>
+<div  align="center">
+<p><img  align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedsohel22&show_icons=true&locale=en&layout=compact" alt="syedsohel22" /></p>
 
 <br>
 
-<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=syedsohel22&show_icons=true&locale=en" alt="syedsohel22" /></p>
+<p><img  align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=syedsohel22&show_icons=true&locale=en" alt="syedsohel22" /></p>
 
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedsohel22&" alt="syedsohel22" /></p>
 
+</div>
 ## ⚡Activity Graph:
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=syedsohel22&theme=rogue)
-</div>
 
  
   
