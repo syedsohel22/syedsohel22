@@ -94,22 +94,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedsohel22&" alt="syedsohel22" /></p>
 
 </div>
-## ⚡Activity Graph:
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=syedsohel22&theme=rogue)
 
  
   
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 
 <br />
